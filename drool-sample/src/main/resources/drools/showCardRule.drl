@@ -1,0 +1,10 @@
+package drools;
+
+import org.codebella.java.drool.Card;
+
+rule "Show Card"
+when
+$showtime : Card( point > 2 && point < 12 )
+then
+System.out.println($showtime.showFaceValue());
+end
