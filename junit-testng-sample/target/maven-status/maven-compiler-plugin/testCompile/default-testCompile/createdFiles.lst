@@ -1,0 +1,6 @@
+org\me\sonikumari\java\sample\testing\junit\category\QuickRunningJUnitTest.class
+org\me\sonikumari\java\sample\testing\junit\category\SlowRunningJUnitTest.class
+org\me\sonikumari\java\sample\testing\testNG\GroupATestNG.class
+org\me\sonikumari\java\sample\testing\junit\category\type\SlowCategory.class
+org\me\sonikumari\java\sample\testing\junit\category\type\QuickCategory.class
+org\me\sonikumari\java\sample\testing\testNG\GroupBTestNG.class
